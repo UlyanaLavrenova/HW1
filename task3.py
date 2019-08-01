@@ -1,3 +1,4 @@
+#var1
 c = 0
 for x in range (100000, 999999):
     a = sum(map(int, str(x)))
